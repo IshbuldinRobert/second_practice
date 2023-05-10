@@ -1,0 +1,15 @@
+C:\Study\C#\second_practice\exr12\bin\Debug\net6.0\exr12.exe
+C:\Study\C#\second_practice\exr12\bin\Debug\net6.0\exr12.deps.json
+C:\Study\C#\second_practice\exr12\bin\Debug\net6.0\exr12.runtimeconfig.json
+C:\Study\C#\second_practice\exr12\bin\Debug\net6.0\exr12.dll
+C:\Study\C#\second_practice\exr12\bin\Debug\net6.0\exr12.pdb
+C:\Study\C#\second_practice\exr12\obj\Debug\net6.0\exr12.csproj.AssemblyReference.cache
+C:\Study\C#\second_practice\exr12\obj\Debug\net6.0\exr12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\second_practice\exr12\obj\Debug\net6.0\exr12.AssemblyInfoInputs.cache
+C:\Study\C#\second_practice\exr12\obj\Debug\net6.0\exr12.AssemblyInfo.cs
+C:\Study\C#\second_practice\exr12\obj\Debug\net6.0\exr12.csproj.CoreCompileInputs.cache
+C:\Study\C#\second_practice\exr12\obj\Debug\net6.0\exr12.dll
+C:\Study\C#\second_practice\exr12\obj\Debug\net6.0\refint\exr12.dll
+C:\Study\C#\second_practice\exr12\obj\Debug\net6.0\exr12.pdb
+C:\Study\C#\second_practice\exr12\obj\Debug\net6.0\exr12.genruntimeconfig.cache
+C:\Study\C#\second_practice\exr12\obj\Debug\net6.0\ref\exr12.dll
