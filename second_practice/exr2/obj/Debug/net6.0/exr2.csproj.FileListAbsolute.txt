@@ -1,0 +1,15 @@
+C:\Study\C#\second_practice\exr2\obj\Debug\net6.0\exr2.csproj.AssemblyReference.cache
+C:\Study\C#\second_practice\exr2\obj\Debug\net6.0\exr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\second_practice\exr2\obj\Debug\net6.0\exr2.AssemblyInfoInputs.cache
+C:\Study\C#\second_practice\exr2\obj\Debug\net6.0\exr2.AssemblyInfo.cs
+C:\Study\C#\second_practice\exr2\obj\Debug\net6.0\exr2.csproj.CoreCompileInputs.cache
+C:\Study\C#\second_practice\exr2\bin\Debug\net6.0\exr2.exe
+C:\Study\C#\second_practice\exr2\bin\Debug\net6.0\exr2.deps.json
+C:\Study\C#\second_practice\exr2\bin\Debug\net6.0\exr2.runtimeconfig.json
+C:\Study\C#\second_practice\exr2\bin\Debug\net6.0\exr2.dll
+C:\Study\C#\second_practice\exr2\bin\Debug\net6.0\exr2.pdb
+C:\Study\C#\second_practice\exr2\obj\Debug\net6.0\exr2.dll
+C:\Study\C#\second_practice\exr2\obj\Debug\net6.0\refint\exr2.dll
+C:\Study\C#\second_practice\exr2\obj\Debug\net6.0\exr2.pdb
+C:\Study\C#\second_practice\exr2\obj\Debug\net6.0\exr2.genruntimeconfig.cache
+C:\Study\C#\second_practice\exr2\obj\Debug\net6.0\ref\exr2.dll
