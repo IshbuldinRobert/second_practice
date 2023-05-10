@@ -1,0 +1,15 @@
+C:\Study\C#\second_practice\example3_random\bin\Debug\net6.0\example3_random.exe
+C:\Study\C#\second_practice\example3_random\bin\Debug\net6.0\example3_random.deps.json
+C:\Study\C#\second_practice\example3_random\bin\Debug\net6.0\example3_random.runtimeconfig.json
+C:\Study\C#\second_practice\example3_random\bin\Debug\net6.0\example3_random.dll
+C:\Study\C#\second_practice\example3_random\bin\Debug\net6.0\example3_random.pdb
+C:\Study\C#\second_practice\example3_random\obj\Debug\net6.0\example3_random.csproj.AssemblyReference.cache
+C:\Study\C#\second_practice\example3_random\obj\Debug\net6.0\example3_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\second_practice\example3_random\obj\Debug\net6.0\example3_random.AssemblyInfoInputs.cache
+C:\Study\C#\second_practice\example3_random\obj\Debug\net6.0\example3_random.AssemblyInfo.cs
+C:\Study\C#\second_practice\example3_random\obj\Debug\net6.0\example3_random.csproj.CoreCompileInputs.cache
+C:\Study\C#\second_practice\example3_random\obj\Debug\net6.0\example3_random.dll
+C:\Study\C#\second_practice\example3_random\obj\Debug\net6.0\refint\example3_random.dll
+C:\Study\C#\second_practice\example3_random\obj\Debug\net6.0\example3_random.pdb
+C:\Study\C#\second_practice\example3_random\obj\Debug\net6.0\example3_random.genruntimeconfig.cache
+C:\Study\C#\second_practice\example3_random\obj\Debug\net6.0\ref\example3_random.dll
