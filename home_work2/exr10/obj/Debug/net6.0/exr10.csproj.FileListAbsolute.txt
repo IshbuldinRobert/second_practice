@@ -1,0 +1,15 @@
+C:\Study\C#\home_work2\exr10\obj\Debug\net6.0\exr10.csproj.AssemblyReference.cache
+C:\Study\C#\home_work2\exr10\obj\Debug\net6.0\exr10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\home_work2\exr10\obj\Debug\net6.0\exr10.AssemblyInfoInputs.cache
+C:\Study\C#\home_work2\exr10\obj\Debug\net6.0\exr10.AssemblyInfo.cs
+C:\Study\C#\home_work2\exr10\obj\Debug\net6.0\exr10.csproj.CoreCompileInputs.cache
+C:\Study\C#\home_work2\exr10\bin\Debug\net6.0\exr10.exe
+C:\Study\C#\home_work2\exr10\bin\Debug\net6.0\exr10.deps.json
+C:\Study\C#\home_work2\exr10\bin\Debug\net6.0\exr10.runtimeconfig.json
+C:\Study\C#\home_work2\exr10\bin\Debug\net6.0\exr10.dll
+C:\Study\C#\home_work2\exr10\bin\Debug\net6.0\exr10.pdb
+C:\Study\C#\home_work2\exr10\obj\Debug\net6.0\exr10.dll
+C:\Study\C#\home_work2\exr10\obj\Debug\net6.0\refint\exr10.dll
+C:\Study\C#\home_work2\exr10\obj\Debug\net6.0\exr10.pdb
+C:\Study\C#\home_work2\exr10\obj\Debug\net6.0\exr10.genruntimeconfig.cache
+C:\Study\C#\home_work2\exr10\obj\Debug\net6.0\ref\exr10.dll
