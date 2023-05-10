@@ -5,5 +5,5 @@ Console.Write("Введите трехзначное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
 int a = num % 100;
-int b = a / 10;
+    b = a / 10;
 Console.WriteLine($"Вторая цифра: {Math.Abs(b)}"); // подходит для отрицательных трехзначных чисел
