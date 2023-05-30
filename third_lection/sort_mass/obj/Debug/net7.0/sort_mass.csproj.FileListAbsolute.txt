@@ -1,0 +1,15 @@
+C:\Study\C#\third_lection\sort_mass\obj\Debug\net7.0\sort_mass.csproj.AssemblyReference.cache
+C:\Study\C#\third_lection\sort_mass\obj\Debug\net7.0\sort_mass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\third_lection\sort_mass\obj\Debug\net7.0\sort_mass.AssemblyInfoInputs.cache
+C:\Study\C#\third_lection\sort_mass\obj\Debug\net7.0\sort_mass.AssemblyInfo.cs
+C:\Study\C#\third_lection\sort_mass\obj\Debug\net7.0\sort_mass.csproj.CoreCompileInputs.cache
+C:\Study\C#\third_lection\sort_mass\bin\Debug\net7.0\sort_mass.exe
+C:\Study\C#\third_lection\sort_mass\bin\Debug\net7.0\sort_mass.deps.json
+C:\Study\C#\third_lection\sort_mass\bin\Debug\net7.0\sort_mass.runtimeconfig.json
+C:\Study\C#\third_lection\sort_mass\bin\Debug\net7.0\sort_mass.dll
+C:\Study\C#\third_lection\sort_mass\bin\Debug\net7.0\sort_mass.pdb
+C:\Study\C#\third_lection\sort_mass\obj\Debug\net7.0\sort_mass.dll
+C:\Study\C#\third_lection\sort_mass\obj\Debug\net7.0\refint\sort_mass.dll
+C:\Study\C#\third_lection\sort_mass\obj\Debug\net7.0\sort_mass.pdb
+C:\Study\C#\third_lection\sort_mass\obj\Debug\net7.0\sort_mass.genruntimeconfig.cache
+C:\Study\C#\third_lection\sort_mass\obj\Debug\net7.0\ref\sort_mass.dll

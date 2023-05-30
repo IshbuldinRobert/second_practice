@@ -1,0 +1,15 @@
+C:\Study\C#\third_lection\ex_work_with_text\obj\Debug\net7.0\ex_work_with_text.csproj.AssemblyReference.cache
+C:\Study\C#\third_lection\ex_work_with_text\obj\Debug\net7.0\ex_work_with_text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\third_lection\ex_work_with_text\obj\Debug\net7.0\ex_work_with_text.AssemblyInfoInputs.cache
+C:\Study\C#\third_lection\ex_work_with_text\obj\Debug\net7.0\ex_work_with_text.AssemblyInfo.cs
+C:\Study\C#\third_lection\ex_work_with_text\obj\Debug\net7.0\ex_work_with_text.csproj.CoreCompileInputs.cache
+C:\Study\C#\third_lection\ex_work_with_text\bin\Debug\net7.0\ex_work_with_text.exe
+C:\Study\C#\third_lection\ex_work_with_text\bin\Debug\net7.0\ex_work_with_text.deps.json
+C:\Study\C#\third_lection\ex_work_with_text\bin\Debug\net7.0\ex_work_with_text.runtimeconfig.json
+C:\Study\C#\third_lection\ex_work_with_text\bin\Debug\net7.0\ex_work_with_text.dll
+C:\Study\C#\third_lection\ex_work_with_text\bin\Debug\net7.0\ex_work_with_text.pdb
+C:\Study\C#\third_lection\ex_work_with_text\obj\Debug\net7.0\ex_work_with_text.dll
+C:\Study\C#\third_lection\ex_work_with_text\obj\Debug\net7.0\refint\ex_work_with_text.dll
+C:\Study\C#\third_lection\ex_work_with_text\obj\Debug\net7.0\ex_work_with_text.pdb
+C:\Study\C#\third_lection\ex_work_with_text\obj\Debug\net7.0\ex_work_with_text.genruntimeconfig.cache
+C:\Study\C#\third_lection\ex_work_with_text\obj\Debug\net7.0\ref\ex_work_with_text.dll

@@ -1,0 +1,15 @@
+C:\Study\C#\third_lection\double_for\bin\Debug\net7.0\double_for.exe
+C:\Study\C#\third_lection\double_for\bin\Debug\net7.0\double_for.deps.json
+C:\Study\C#\third_lection\double_for\bin\Debug\net7.0\double_for.runtimeconfig.json
+C:\Study\C#\third_lection\double_for\bin\Debug\net7.0\double_for.dll
+C:\Study\C#\third_lection\double_for\bin\Debug\net7.0\double_for.pdb
+C:\Study\C#\third_lection\double_for\obj\Debug\net7.0\double_for.csproj.AssemblyReference.cache
+C:\Study\C#\third_lection\double_for\obj\Debug\net7.0\double_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\third_lection\double_for\obj\Debug\net7.0\double_for.AssemblyInfoInputs.cache
+C:\Study\C#\third_lection\double_for\obj\Debug\net7.0\double_for.AssemblyInfo.cs
+C:\Study\C#\third_lection\double_for\obj\Debug\net7.0\double_for.csproj.CoreCompileInputs.cache
+C:\Study\C#\third_lection\double_for\obj\Debug\net7.0\double_for.dll
+C:\Study\C#\third_lection\double_for\obj\Debug\net7.0\refint\double_for.dll
+C:\Study\C#\third_lection\double_for\obj\Debug\net7.0\double_for.pdb
+C:\Study\C#\third_lection\double_for\obj\Debug\net7.0\double_for.genruntimeconfig.cache
+C:\Study\C#\third_lection\double_for\obj\Debug\net7.0\ref\double_for.dll
